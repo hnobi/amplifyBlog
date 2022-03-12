@@ -1,9 +1,12 @@
 import './App.css';
+import Displaypost from './components/displaypost';
+
+
 
 function App() {
   return (
     <div className="App">
-      hh
+      <Displaypost />
     </div>
   );
 }
